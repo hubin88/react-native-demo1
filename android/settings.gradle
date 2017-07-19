@@ -1,0 +1,3 @@
+rootProject.name = 'Hubin'
+
+include ':app'
