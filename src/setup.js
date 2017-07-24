@@ -16,7 +16,7 @@ import {
 } from 'react-native';
 import Button from './components/button';
 import { openDataPick, openTimePick } from './until/tools';
-export default class Setup extends Component {
+export default class Hubin extends Component {
   static defaultProps = {
     partyTypeSeletScope: [{
       label: '沙龙',
